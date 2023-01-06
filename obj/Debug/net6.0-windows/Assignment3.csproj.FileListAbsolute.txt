@@ -1,0 +1,46 @@
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Assignment3.exe
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Assignment3.deps.json
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Assignment3.dll
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Assignment3.pdb
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.AssemblyReference.cache
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\App.g.cs
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3_MarkupCompile.cache
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3_MarkupCompile.lref
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\MainWindow.baml
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.g.resources
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.dll
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\refint\Assignment3.dll
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.pdb
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\ref\Assignment3.dll
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\PG-Mobile Solutions Development\SEM-1\Softwaer Development Techniques\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CopyComplete
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Assignment3.exe
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Assignment3.deps.json
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Assignment3.dll
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\DC\source\repos\Bus-Reservation\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.csproj.AssemblyReference.cache
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3_MarkupCompile.cache
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3_MarkupCompile.lref
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.g.resources
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.csproj.CopyComplete
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.dll
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\refint\Assignment3.dll
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\DC\source\repos\Bus-Reservation\obj\Debug\net6.0-windows\ref\Assignment3.dll

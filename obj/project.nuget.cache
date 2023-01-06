@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt6CtVOaNPZpyldsEu6at0ooHrCRVmayk93Buio8caX4bbILZtsi9O6GsX1IlmQAQrLkgpdDuB5KkZYVZ+6YWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DC\\source\\repos\\Bus-Reservation\\Assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
